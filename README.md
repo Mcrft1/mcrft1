@@ -1,5 +1,5 @@
 # About
-Game developer on Roblox.
+Game developer on Roblox
 
 # Languages:
 • Luau (Roblox Lua)
