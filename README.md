@@ -2,5 +2,5 @@
 Game developer on Roblox
 
 # Languages:
-• Luau (Roblox Lua)
-• HTML & CSS (Still Learning)
+- Luau (Roblox Lua)
+- HTML & CSS
