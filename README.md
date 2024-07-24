@@ -6,4 +6,4 @@ Game developer on Roblox
 - HTML & CSS
 
 # Sites programmed by me:
-- www.onestudios.wuaze.com
+- soon
