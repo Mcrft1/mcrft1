@@ -1,13 +1,13 @@
 # About
-Game developer on Roblox
+Game developer at Roblox. I also love games
 
 # Languages:
 - Luau (Roblox Lua)
 - HTML & CSS
 
-# Sites programmed by me:
-- https://www.onestudios.wuaze.com
-
 # Where i work:
-- Enchanted Games Studios -> https://www.enchantedgames.kesug.com
-- OneStudios Group -> https://www.onestudios.wuaze.com
+- Enchanted Games Studios: Founder, CEO and Developer / Website -> https://www.enchantedgames.kesug.com
+- OneStudios Group: Founder & Developer / Website -> https://www.onestudios.wuaze.com
+
+- # Sites programmed by me:
+- https://www.onestudios.wuaze.com
