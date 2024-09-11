@@ -7,7 +7,4 @@ Game developer at Roblox. I also love games like Poppy Playtime, Grand Theft Aut
 
 # Where i work:
 - Enchanted Games Studios: Founder, CEO and Developer / Website -> https://www.enchantedgames.kesug.com
-- OneStudios Group: Founder & Developer / Website -> https://www.onestudios.wuaze.com
-
-- # Sites programmed by me:
-- https://www.onestudios.wuaze.com
+- OneStudios Group: Founder Director and Developer / Website -> https://www.onestudios.wuaze.com
