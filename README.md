@@ -6,5 +6,4 @@ Game developer at Roblox. I also love games like Poppy Playtime, Grand Theft Aut
 - HTML & CSS
 
 # Where I work:
-- Enchanted Games Studios: Founder, Head of Creative and Developer
 - OneStudios Group: Founder, CEO and Developer
