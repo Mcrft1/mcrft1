@@ -6,4 +6,4 @@ Game developer at Roblox. I also love games like Poppy Playtime, Grand Theft Aut
 - HTML & CSS
 
 # Where I work:
-- OneStudios Group: Founder, CEO and Developer
+- OneStudios Group: Founder, and Developer
