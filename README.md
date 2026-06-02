@@ -4,6 +4,3 @@ Game developer at Roblox. I also love games like Poppy Playtime, Grand Theft Aut
 # Languages:
 - Luau (Roblox Lua)
 - HTML & CSS
-
-# Where I work:
-- OneStudios Group: Founder, and Developer
